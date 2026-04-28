@@ -1,6 +1,6 @@
 import { APIRequestContext } from '@playwright/test';
 
-const API_BASE = 'https://api.realworld.show/api';
+const API_BASE = 'https://3zgug3s5bg.execute-api.eu-west-1.amazonaws.com/dev';
 
 export interface UserCredentials {
   email: string;

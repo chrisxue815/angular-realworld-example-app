@@ -1,7 +1,7 @@
 import { test, expect } from '@playwright/test';
 import { getToken, getAuthState } from './helpers/debug';
 
-const API_BASE = 'https://api.realworld.show/api';
+const API_BASE = 'https://3zgug3s5bg.execute-api.eu-west-1.amazonaws.com/dev';
 
 /**
  * Tests for error handling when the app tries to fetch the current user on initialization.

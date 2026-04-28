@@ -1,6 +1,6 @@
 import { test, expect, Page, Route } from '@playwright/test';
 
-const API_BASE = 'https://api.realworld.show/api';
+const API_BASE = 'https://3zgug3s5bg.execute-api.eu-west-1.amazonaws.com/dev';
 
 /**
  * Helper to mock an API endpoint with a specific error response
